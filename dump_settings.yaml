@@ -24,15 +24,7 @@ SETTINGS_FRIENDS_LINKS:
   enable: true
   json_api: https://blog.ohtoai.fun/assets/friends.json
   list:
-  - - "\u8D30\u7339\u306E\u5C0F\u7A9D"
-    - https://noionion.top/
-    - https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg
-    - rss.xml
-  - - "Akilar\u306E\u7CD6\u679C\u5C4B"
-    - https://akilar.top/
-    - https://akilar.top/images/headimage.png
-    - atom.xml
-  - - elizen
-    - https://elizen.me/
-    - https://akilar.top/images/headimage.png
-    - hello.xml
+  - - RK's blog
+    - https://blog.ohtoai.fun
+    - https://blog.ohtoai.fun/assets/avater.png
+    - ''
